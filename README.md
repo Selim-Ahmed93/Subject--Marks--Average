@@ -1,17 +1,15 @@
-# 🔢 Basic Subject--Marks--Average
+# 📘 Subject Marks Average Calculator
 
-A simple and clean calculator built using HTML, CSS, and JavaScript. It supports basic arithmetic operations like addition, subtraction, multiplication, and division.
+A simple web application to calculate the average of marks in different subjects. Built using HTML, CSS, and JavaScript — perfect for students and beginners to understand basic logic implementation.
 
 ---
 
-## ✨ Features
+## 🎯 Features
 
-- ➕ Addition  
-- ➖ Subtraction  
-- ✖️ Multiplication  
-- ➗ Division  
-- 🧮 Real-time result display  
-- 💡 User-friendly UI  
+- 📥 Input marks for multiple subjects  
+- 🧮 Calculates average marks  
+- ✅ Simple UI and easy to use  
+- 📱 Responsive design (basic)
 
 ---
 
@@ -31,12 +29,12 @@ A simple and clean calculator built using HTML, CSS, and JavaScript. It supports
 
 ## 📸 Screenshot
 
-![Basic Calculator Screenshot](https://via.placeholder.com/600x300?text=Calculator+Preview)
+![App Screenshot](https://via.placeholder.com/600x300?text=Subject+Marks+Average+Preview)
 
 ---
 
-## ▶️ How to Run
+## ▶️ How to Use
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Selim-Ahmed93/basic-Calculator.git
+git clone https://github.com/Selim-Ahmed93/Subject--Marks--Average.git
