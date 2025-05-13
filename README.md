@@ -1,4 +1,4 @@
-# 🔢 Basic Calculator
+# 🔢 Basic Subject--Marks--Average
 
 A simple and clean calculator built using HTML, CSS, and JavaScript. It supports basic arithmetic operations like addition, subtraction, multiplication, and division.
 
